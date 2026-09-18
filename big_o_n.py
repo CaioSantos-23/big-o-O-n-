@@ -1,7 +1,10 @@
 """
 Exemplo prático de complexidade O(N) — Big O Linear
-Autor: Caio dos Santos Silva
-Matrícula: 202310328
+Integrantes:
+  Aline de Brito Simas — 202310031
+  Caio dos Santos Silva — 202310328
+  Mellani Lyvian de Macêdo dos Santos — 202310725
+  Ricardo Ribeiro de Figueiredo — 202310773
 
 Este programa demonstra, na prática, algoritmos com complexidade de
 tempo O(N) (linear). Nesse tipo de algoritmo, o número de operações
