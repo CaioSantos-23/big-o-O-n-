@@ -1,8 +1,5 @@
 # Exemplo prático de complexidade O(N)
 
-**Autor:** Caio dos Santos Silva
-**Matrícula:** 202310328
-
 ## O que é O(N)?
 
 Um algoritmo tem complexidade **O(N)** (linear) quando o número de
@@ -43,15 +40,3 @@ python3 big_o_n.py
 O tempo cresce de forma aproximadamente proporcional ao N — a
 assinatura de um algoritmo **O(N)**.
 
-## Como subir no GitHub
-
-```bash
-git init
-git add big_o_n.py README.md
-git commit -m "Exemplo pratico de complexidade O(N)"
-git branch -M main
-git remote add origin <URL_DO_SEU_REPOSITORIO>
-git push -u origin main
-```
-
-Depois é só copiar o link do repositório e enviar no AVA. 🚀
