@@ -1,5 +1,14 @@
 # Exemplo prático de complexidade O(N)
 
+## Integrantes
+
+| Nome | Matrícula |
+|---|---|
+| Aline de Brito Simas | 202310031 |
+| Caio dos Santos Silva | 202310328 |
+| Mellani Lyvian de Macêdo dos Santos | 202310725 |
+| Ricardo Ribeiro de Figueiredo | 202310773 |
+
 ## O que é O(N)?
 
 Um algoritmo tem complexidade **O(N)** (linear) quando o número de
